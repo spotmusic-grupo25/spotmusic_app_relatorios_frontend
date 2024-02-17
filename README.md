@@ -1,4 +1,4 @@
-# Microsserviço <i>"Funcionalidade"</i>
+# Microsserviço <i>Relatórios</i>
 
 <h3>Olá, somos membros do grupo 25</h3>
 
@@ -14,7 +14,7 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
           
 <hr>
 <h3>Objetivo:</h3>
-<h5>Aplicação front para o módulo de <i>"Funcionalidade"</i></h5>
+<h5>Aplicação front para o módulo de <i>Relatórios</i></h5>
 
 <hr>
 <h3>Descrição da estrutura da aplicação:</h3>
